@@ -77,4 +77,6 @@ section{
 section{
     display: flex;
     margin: 150px;
+}footer{
+    text-align: center;
 }
