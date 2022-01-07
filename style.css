@@ -1,4 +1,6 @@
 body{
+    margin: 5%;
+    padding: 5%;
     font-family: 'EB Garamond', serif;
 font-family: 'Lora', serif;
 font-family: 'Playfair Display', serif;
@@ -16,7 +18,7 @@ section{
 }
 .half-width{
     width: 80%;
-    padding-left: 10%;
+    padding-left: 5%;
 }
 .half-width img{
     width: 90%;
@@ -29,4 +31,42 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.second-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.mission{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+    background-color: rgb(182, 142, 180);
+}
+.div-img img{
+    width: 80%;
+}
+.vission{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+    background-color: rgb(235, 156, 195);
+}
+.div-img img{
+    width: 80%;
+}
+.goals{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+    background-color: rgb(235, 160, 160);
+}
+.div-img img{
+    width: 80%;
+}
+.my-mission{
+    display: flex;
+    padding-left: 10%;
 }
